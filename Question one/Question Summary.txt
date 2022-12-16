@@ -1,0 +1,13 @@
+A python program to accept numbers form user and then calculating their average
+numbers entered can be n nmbers 1....numbers
+
+eg: user wants to input 10 numbers 
+program will take 10 numbers as input 
+as there are 10 numbers the program will return their average
+
+Why this program?(python components used)
+
+-for loop
+-range function
+
+Basic:variables,arithmetic operations, print 
